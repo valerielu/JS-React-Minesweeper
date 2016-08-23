@@ -1,0 +1,12 @@
+.tile {
+  border: 1px solid black;
+  display: flex;
+  float: left;
+  width: 10%;
+  height: 20px;
+  box-sizing: border-box;
+}
+
+.row {
+  width: 200px;
+}
